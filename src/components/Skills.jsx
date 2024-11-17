@@ -27,7 +27,7 @@ const Skills = () => {
         </div>
         <div className='flex flex-col items-center m-4 sm:my-0 w-[40px] md:w-[100px]'>
             <img src={react} alt="html" width={100} height={100} />
-            <p className='mt-2'>React</p>
+            <p className='mt-2'>React JS</p>
         </div>
         <div className='flex flex-col items-center m-4 sm:my-0 w-[40px] md:w-[100px]'>
             <img src={tailwind} alt="html" width={100} height={100} />

@@ -21,10 +21,10 @@ const Work = () => {
             shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center
             mx-auto contet-div h-[200px] bg-cover relative
             '>
-                <img src={proj1} alt="project1" objectFit='cover' layout='fill'/>
+                <img src={proj1} alt="java script project" objectFit='cover' layout='fill'/>
                 <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
                     <span className='text-2xl font-bold text-white tracking-wider'>
-                        Project
+                        React/JS Project
                     </span>
                     <div className='pt-8 text-center'>
                         <a href="https://github.com/Zyzz294">
@@ -40,10 +40,10 @@ const Work = () => {
             shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center
             mx-auto contet-div h-[200px] bg-cover relative
             '>
-                <img src={proj2} alt="project1" objectFit='cover' layout='fill'/>
+                <img src={proj2} alt="java script project" objectFit='cover' layout='fill'/>
                 <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
                     <span className='text-2xl font-bold text-white tracking-wider'>
-                        Project
+                    React/JS Project
                     </span>
                     <div className='pt-8 text-center'>
                         <a href="https://github.com/Zyzz294">
@@ -59,10 +59,10 @@ const Work = () => {
             shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center
             mx-auto contet-div h-[200px] bg-cover relative
             '>
-                <img src={proj3} alt="project1" objectFit='cover' layout='fill'/>
+                <img src={proj3} alt="java script project" objectFit='cover' layout='fill'/>
                 <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
                     <span className='text-2xl font-bold text-white tracking-wider'>
-                        Project
+                    React/JS Project
                     </span>
                     <div className='pt-8 text-center'>
                         <a href="https://github.com/Zyzz294">
@@ -78,10 +78,10 @@ const Work = () => {
             shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center
             mx-auto contet-div h-[200px] bg-cover relative
             '>
-                <img src={proj4} alt="project1" objectFit='cover' layout='fill'/>
+                <img src={proj4} alt="java script project" objectFit='cover' layout='fill'/>
                 <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
                     <span className='text-2xl font-bold text-white tracking-wider'>
-                        Project
+                    React/JS Project
                     </span>
                     <div className='pt-8 text-center'>
                         <a href="https://github.com/Zyzz294">
@@ -97,10 +97,10 @@ const Work = () => {
             shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center
             mx-auto contet-div h-[200px] bg-cover relative
             '>
-                <img src={proj5} alt="project1" objectFit='cover' layout='fill'/>
+                <img src={proj5} alt="java script project" objectFit='cover' layout='fill'/>
                 <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
                     <span className='text-2xl font-bold text-white tracking-wider'>
-                        Project
+                    React/JS Project
                     </span>
                     <div className='pt-8 text-center'>
                         <a href="https://github.com/Zyzz294">
@@ -116,10 +116,10 @@ const Work = () => {
             shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center
             mx-auto contet-div h-[200px] bg-cover relative
             '>
-                <img src={proj6} alt="project1" objectFit='cover' layout='fill'/>
+                <img src={proj6} alt="java script project" objectFit='cover' layout='fill'/>
                 <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
                     <span className='text-2xl font-bold text-white tracking-wider'>
-                        Project
+                    React/JS Project
                     </span>
                     <div className='pt-8 text-center'>
                         <a href="https://github.com/Zyzz294">

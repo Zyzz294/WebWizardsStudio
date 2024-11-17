@@ -6,7 +6,7 @@ const Footer = () => {
         <span className='primary-color'>
             WebWizard Studios
         </span>
-        <p className='text-gray-600'>webwizard@gmail.com <br /> #webDev2024</p>
+        <p className='text-gray-600'>webwizard@gmail.com <br /> #HTML/CSS/JS/ReactJS</p>
     </div>
   )
 }
