@@ -18,19 +18,19 @@ const Skills = () => {
             <p className='mt-2'>HTML</p>
         </div>
         <div className='flex flex-col items-center m-4 sm:my-0 w-[40px] md:w-[100px]'>
-            <img src={css} alt="html" width={100} height={100} />
+            <img src={css} alt="css" width={100} height={100} />
             <p className='mt-2'>CSS</p>
         </div>
         <div className='flex flex-col items-center m-4 sm:my-0 w-[40px] md:w-[100px]'>
-            <img src={javascript} alt="html" width={100} height={100} />
+            <img src={javascript} alt="java script" width={100} height={100} />
             <p className='mt-2'>JAVASCRIPT</p>
         </div>
         <div className='flex flex-col items-center m-4 sm:my-0 w-[40px] md:w-[100px]'>
-            <img src={react} alt="html" width={100} height={100} />
+            <img src={react} alt="react js" width={100} height={100} />
             <p className='mt-2'>React JS</p>
         </div>
         <div className='flex flex-col items-center m-4 sm:my-0 w-[40px] md:w-[100px]'>
-            <img src={tailwind} alt="html" width={100} height={100} />
+            <img src={tailwind} alt="tailwind" width={100} height={100} />
             <p className='mt-2'>TAILWIND</p>
         </div>
 

@@ -12,7 +12,7 @@ const Work = () => {
     <div className='max-w-[1200px] mx-auto p-5' id='work'>
         <div className='pb-8'>
             <p className='text-4xl mb-3 font-bold primary-color'>Work</p>
-            <p className='text-gray-400'>Check Out Some of Our Recent Works</p>
+            <h3 className='text-gray-400'>Check Out Some of Our Recent Works</h3>
         </div>
 
         <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
@@ -27,7 +27,7 @@ const Work = () => {
                         React/JS Project
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href="https://github.com/Zyzz294">
+                        <a href="https://github.com/Zyzz294/Innovatech">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                 Live
                             </button>
@@ -46,7 +46,7 @@ const Work = () => {
                     React/JS Project
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href="https://github.com/Zyzz294">
+                        <a href="https://github.com/Zyzz294/techtrek">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                 Live
                             </button>
@@ -65,7 +65,7 @@ const Work = () => {
                     React/JS Project
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href="https://github.com/Zyzz294">
+                        <a href="https://github.com/Zyzz294/PixelPerfect-Solutions">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                 Live
                             </button>
